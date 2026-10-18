@@ -37,7 +37,7 @@ The analysis uses the human insulin mRNA transcript variant 1 (**NCBI accession:
 
 The top BLASTp match was human insulin itself (UniProt accession: P01308), with 100% sequence identity. This expected self-match served as a reference for comparing the other hits.
 
-The remaining top hits included insulin sequences from other primates, rodents, and dog. The reported percentage identities ranged from 82.7% to 99.1% among these non-human matches. These results demonstrate sequence similarity between human preproinsulin and homologous insulin precursor sequences from other mammals.
+The remaining top hits included insulin precursor sequences from other primates, rodents, and dog. The reported percentage identities ranged from 82.7% to 99.1% among these non-human matches. These results demonstrate sequence similarity between human preproinsulin and homologous insulin precursor sequences from other mammals.
 
 ## Tools and Technologies
 
